@@ -1,0 +1,139 @@
+{
+  "tienda": {
+    "nombre": "García - Tu Barrio",
+    "telefono": "+53 52715892",
+    "horario": "Lun-Sáb 8:00am - 6:00pm",
+    "direccion": "Calzada y García, Cárdenas"
+  },
+  "categorias": [
+    "Abarrotes",
+    "Bebidas",
+    "Limpieza",
+    "Cuidado Personal",
+    "Snacks",
+    "Congelados",
+    "Otros"
+  ],
+  "productos": [
+    {
+      "id": "001",
+      "nombre": "Arroz Blanco 5kg",
+      "categoria": "Abarrotes",
+      "precio": 420.00,
+      "unidad": "bolsa",
+      "peso": "5 kg",
+      "stock": 15,
+      "destacado": true,
+      "imagen": "001.jpg",
+      "descripcion": "Arroz de grano largo, ideal para la cocina diaria. Producto de alta calidad."
+    },
+    {
+      "id": "002",
+      "nombre": "Jabón de Baño Manzanilla",
+      "categoria": "Cuidado Personal",
+      "precio": 85.00,
+      "unidad": "unidad",
+      "peso": "125 g",
+      "stock": 3,
+      "destacado": false,
+      "imagen": "002.jpg",
+      "descripcion": "Jabón suave con aroma a manzanilla. Ideal para piel sensible."
+    },
+    {
+      "id": "003",
+      "nombre": "Refresco Cola 2L",
+      "categoria": "Bebidas",
+      "precio": 150.00,
+      "unidad": "botella",
+      "peso": "2 L",
+      "stock": 8,
+      "destacado": true,
+      "imagen": "003.jpg",
+      "descripcion": "Refresco de cola, sabor clásico. Perfecto para compartir."
+    },
+    {
+      "id": "004",
+      "nombre": "Pan de Harina 500g",
+      "categoria": "Abarrotes",
+      "precio": 60.00,
+      "unidad": "paquete",
+      "peso": "500 g",
+      "stock": 0,
+      "destacado": false,
+      "imagen": "004.jpg",
+      "descripcion": "Pan de harina de trigo, recién horneado. Ideal para desayunos."
+    },
+    {
+      "id": "005",
+      "nombre": "Detergente Líquido 1L",
+      "categoria": "Limpieza",
+      "precio": 180.00,
+      "unidad": "botella",
+      "peso": "1 L",
+      "stock": 5,
+      "destacado": false,
+      "imagen": "005.jpg",
+      "descripcion": "Detergente líquido para ropa, con aroma a lavanda."
+    },
+    {
+      "id": "006",
+      "nombre": "Galletas Rellenas 150g",
+      "categoria": "Snacks",
+      "precio": 45.00,
+      "unidad": "paquete",
+      "peso": "150 g",
+      "stock": 20,
+      "destacado": false,
+      "imagen": "006.jpg",
+      "descripcion": "Galletas rellenas con crema de chocolate. Deliciosas y crujientes."
+    },
+    {
+      "id": "007",
+      "nombre": "Agua Purificada 5L",
+      "categoria": "Bebidas",
+      "precio": 80.00,
+      "unidad": "garrafa",
+      "peso": "5 L",
+      "stock": 10,
+      "destacado": true,
+      "imagen": "007.jpg",
+      "descripcion": "Agua purificada, ideal para consumo diario."
+    },
+    {
+      "id": "008",
+      "nombre": "Papel Higiénico 4uds",
+      "categoria": "Limpieza",
+      "precio": 95.00,
+      "unidad": "paquete",
+      "peso": "4 rollos",
+      "stock": 2,
+      "destacado": false,
+      "imagen": "008.jpg",
+      "descripcion": "Papel higiénico suave, 4 rollos por paquete."
+    },
+    {
+      "id": "009",
+      "nombre": "Pasta Dental 100ml",
+      "categoria": "Cuidado Personal",
+      "precio": 110.00,
+      "unidad": "tubo",
+      "peso": "100 ml",
+      "stock": 6,
+      "destacado": false,
+      "imagen": "009.jpg",
+      "descripcion": "Pasta dental con flúor, protección anticaries."
+    },
+    {
+      "id": "010",
+      "nombre": "Helado de Vainilla 1L",
+      "categoria": "Congelados",
+      "precio": 250.00,
+      "unidad": "caja",
+      "peso": "1 L",
+      "stock": 4,
+      "destacado": false,
+      "imagen": "010.jpg",
+      "descripcion": "Helado cremoso de vainilla. Perfecto para los días calurosos."
+    }
+  ]
+}
